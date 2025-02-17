@@ -9,7 +9,7 @@
 
 ### 🚀 Professional Summary
 
-Seasoned Full Stack Developer with expertise in building scalable web applications, cloud-native solutions, and AI-integrated systems. Passionate about solving complex problems with clean, efficient code and modern tech stacks. Thrives in fast-paced environments and enjoys mentoring teams.
+I'm a passionate **Full Stack Developer** from Islamabad, Pakistan with a knack for building scalable web applications and delivering innovative solutions. My expertise spans both front-end and back-end development, cloud services, and DevOps.
 
 ---
 
@@ -21,10 +21,13 @@ Seasoned Full Stack Developer with expertise in building scalable web applicatio
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
 
 #### **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
@@ -32,12 +35,16 @@ Seasoned Full Stack Developer with expertise in building scalable web applicatio
 #### **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/Git-F05032?logo=vercel)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 #### **AI/ML**
 
+![LangChain](https://img.shields.io/badge/LangChain-FF6600?logo=langchain)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-412991?logo=deepseek)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google)
 
 ---
 
@@ -48,7 +55,7 @@ Seasoned Full Stack Developer with expertise in building scalable web applicatio
 `Mar 2024 - Oct 2024`
 
 - Built AI-driven web apps with **OpenAI integrations** for StudioX ecosystem.
-- Designed interactive dashboards using **Apex Charts** and **D3.js**.
+- Designed interactive dashboards using **Apex Charts**.
 - Enhanced UX with drag-and-drop features and real-time data visualizations.
 
 #### **Senior Full Stack JS Developer** @ [AVROX Solutions](https://avrox.com) _(Hybrid, Eastern Time Zone)_
@@ -59,7 +66,7 @@ Seasoned Full Stack Developer with expertise in building scalable web applicatio
 - Mentored junior developers and led code reviews.
 - Collaborated with US clients to align product goals.
 
-#### **Freelance Developer** @ [Fiverr](https://fiverr.com) _(Top-Rated Seller)_
+#### **Freelance Developer** @ [Fiverr](https://fiverr.com) _(Level 2 Seller)_
 
 `Sep 2019 - 2023`
 
