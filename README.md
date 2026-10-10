@@ -8,63 +8,119 @@
 
 # Muhammad Aasim
 
-**Full-Stack AI Engineer** · Founding engineer at [UX Pilot AI](https://uxpilot.ai) · Islamabad, Pakistan · Open to remote roles
+**Full-Stack AI Engineer** · Founding engineer at [UX Pilot AI](https://uxpilot.ai/) · Islamabad, Pakistan · **Open to full-time remote roles**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aasim.site-4f46e5?style=flat)](https://aasim.site)
-[![Resume](https://img.shields.io/badge/Resume-PDF-111?style=flat)](https://aasim.site/muhammad-aasim-resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-aasim/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:muhammadaasimsoomro@gmail.com)
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-aasim.site-4f46e5?style=for-the-badge)](https://aasim.site)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111?style=for-the-badge)](https://aasim.site/muhammad-aasim-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--aasim-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-aasim/)
+[![Email](https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadaasimsoomro@gmail.com)
 
 <details open>
-<summary><b>ASCII me</b> · rendered from the halftone portrait on <a href="https://aasim.site">aasim.site</a></summary>
+<summary><b>ASCII me</b> · the halftone portrait from <a href="https://aasim.site">aasim.site</a>, re-rendered as characters</summary>
 
 ```text
-                               ,~=+;,
-                          .=x%@@@@@@@#xx+:
-                     ,+xX*X@@@@@@@@@@@@@@@X~`
-                    ,%@@@@@@@@@@@@@@@@@@@@@@#~
-                  '+@@@@@@@@@@@@@@@@@@@@@@@@@@x;
-                  ,%@@@@@@@@@@@@@@@@@@@@@@@@@@@#~
-                 .+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*
-                 ,%@@@@@#xxxxx+==+X#%@@@@@@@@@@@X'
-                  *@@@@x~======--~~~=++++X%@@@@@*
-                  ;@@@%~=====~~;,,:-~======X@@@@-
-                  `#@@===~;;:`'`'`',,,~~~=~~#@@%,
-                   *@#~=+*XxXx+=~~=*x####x=~x@@x`
-                  '~xx~=*Xx%@@%~=~x@@%%#Xx=~+%x~~`
-                  ,;~x~==~+x**=~-~=+*+x+=====X=~-`
-                  '-=*~;:-~=~==-`-======-~===X~--'
-                   :;*~~,`:~==-,':~==~-;-====X~-:
-                   ';x~=~~===~+=-~x+~======~*#-:
-                    '++====xX#@@@@%##XX+===~#*
-                     ~x==~x@x*+++=+*xxX#~~-x@:
-                     `x#+~x+==~+xx+==~=X-=%@x
-                      `=%%%#=~-=xX~=~*X@@@@x,
-                        ;X@@%%Xx%%X#%@@@@X=+%#~
-                       ~#~+x#@@@@@@@@@@#+~-~#@%=
-                      +@@=~~~=+X%@@%#x~~---~#@@@#~:
-                   ;=%@@@*~-----=**=-------X@@@@%%#X*~,`
-              .,-+X###%%%%+--------------~#%%%###Xxx*+=~;:`.
-           '`;-~=++*xxXXX#X=------------+##XXXxx**+=~~;::,`'.
-          .''`,:;--~==++****-~;;-~~-;;;~****+++=~~-;:,,`'..
-            ...'``,:;;;--~~=--:::;;:::;~=~~---;;:,,`''..
-                ...''``,,,::,::,````,:;::::,,``''...
-                      ....'''''`'..'`'''''....
+                                           ^";|XJO0v)-,
+                                       "]uQkoMB$$$$@@BhCcnr?,
+                                 "l~+l<JB$$$$$@@@@@@@@$$$$$Bhr>"
+                               ]QhW&Mbh%@@@@@@@@@@@@@@@@@@@@$@%w1^
+                              }#$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@$$Bq)
+                            ;joB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$&xi'
+                           +wB$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$Wj`
+                           )&$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$%YI
+                          'xW@@@@@@@@@@@@@@@@$$$$@@@@@@@@@@@@@@@@@@@@$%/
+                         `f#@@@@@@@$$$$$$$$@8*ao&B$$$$@@@@@@@@@@@@@@@@W)
+                         ,0@@@@@@@@#ZLYLLJYXj\|\fvOa#%$$$$$$$@@@@@@@@@8v^
+                          1W@@@@@Bpt11)(()((||((()((|nLmOJ0q#@$@@@@@@@%r`
+                          id$@@@@ht{\\\\\\/|([<~-_}|\|)1)(1)jcqB$@@@@$W}
+                           j%@@@%Y{|\\\///(()?<:,:i?[1\/\\\\|))J&@@@@@O"
+                           [M$@BO||//\(1{?>;,``' ```";l_)|||\(]]LB@@@Bc
+                           ^0@$*f1\)_+~!I:;;l!;;>ll+<<>+1)(\(1]-t*@@$W)
+                           ^vW@q()\juQbpmpmUnx()\|/YLmh##o**Zu1[)m@$BZ~`
+                           ;[X*C{|tuCmZpW$$$&J)((|C8$$$$8oawQCt{{JB&Q({?^
+                           >]]LC1\(tLUX#%hO&bf1111rZ*oUwWhY00j||)jhX]++-"
+                           i+~XJ1||||))jYvrvt))[1|()/xxxzn((||\\)/qrr)?_"
+                           I})cz1-<i[)((|\|(|\+,+(|\||/jt/|1(\\\)/pf|1?_"
+                           ^~_tz1)+^^I-1(|\//)!`:}\\\\(}}{[_](\\)tqj{?]<'
+                            ;<]X|))~"^I+}\\}?i` `~)|\\|]-_<[\\\\)jb/___,
+                            '>[Lf1/\}]1||\([)[<>>]fx|(||(|\\\\\|1C#t-~`
+                             `_Cr1\\\\\|)(fuh&*qma%but\/\||\\\\(1Za[:^
+                              ^JC1\\\||Jqa&W*aa*#*aoW8WM#O/(|((}uWY^
+                               /wt)\\1xWBhb0zxccxxzXCwpb#8U[]]]rh&}
+                               :Lau){]xbc1(1)||){(|)){[]/av_](J&$bi
+                                -aBwn)xm11\\()Uo*pX/\/1-)bQ)fd@$k_
+                                 lXB$hqWZ\1{-{/LMY1|((txZ8B&%$@a}
+                                   _w$$$@pXv//(vawjucYkB$@@$$WCxL0t>
+                                   l/zk8$$$@%W*%@B%%B$$$@$$W0\[]L@$#t
+                                  |az]\fO#%$$$$@@@@@@@@$B&wj]]--xM@$&t
+                                 |M$p[{11|z0wM@@@@@@@B8duj{----_)h@@$%L},
+                               iX&$@d{}[-?}]]/xqB@B#wv/}?_----_]J8@@@$$@px]l"
+                            l{zM$$@@*j}]------_{rcvf{_-------_]Y&@@@@B%&W#ad0v}I^`
+                        ,_jUp*WW&%BB@b\---------???-?-------_}J&BB%&M*aakdwZ0Jzxt1~:"'
+                   '"i?|xYQOmqdbhaoo#Wm)_------------------_/w##ooahbdqm0LYcnjt|{[-+>;"`
+                '^;>_]{)/fxuzXJL0ZwqdbkQ1----------------_]xdhbdqwmOLJXzuxf/)}]_~>l;,^`
+                ^":;li>~-[{)\tjxvcYYCLQOY{-}-__---_--____?rOOQLCYYcvxjt\({[-+>il;,"`'
+                   `^":;li>+_?[{)(/trrxuv[>_<<<<]/|[~<<<>?1xuxrrt/|){[?_+<ilI:"^`
+                      '`^":;l!>><+--]}}{){[_>IIIl>>ilIII<])(1}}]--_~>>!l;:,^`'
+                           ``^,,:IIl!i<<~>l++!:,,,,,,,Ii++~~<<i!lI;::,^^`
+                                '``^"",,:,^:Il;,```^":III;::,,"^^``'
+                                         ''`````   '`````''
 ```
 
 </details>
 
----
-
-### 🚀 About
+## 👋 About
 
 Full-Stack AI Engineer with 6+ years shipping production React, Next.js, TypeScript, and Node.js products. Founding Software Engineer at UX Pilot AI, working directly with the founder and CTO to ship LLM-powered design-to-app generation, MCP tool calling, and WorkOS SAML SSO for enterprise customers. Resolves customer-facing issues end to end with the support team, and uses PostHog funnels and A/B tests to measure what ships. Remote-first and high-ownership, with 13 five-star client reviews.
 
----
+Founding Software Engineer at UX Pilot AI, working directly with the founder and CTO. I ship product features from idea to production and take customer-facing issues all the way to a fix, alongside the support team.
 
-### 🛠️ Technical Stack
+## ⚡ Highlights
+
+- **6+ years** shipping production React, Next.js, TypeScript and Node.js products
+- **Founding engineer** at UX Pilot AI, working directly with the founder and CTO
+- **AI in production:** LLM-powered design-to-app generation, MCP tool calling, RAG and agent workflows
+- **Enterprise-ready:** WorkOS SAML SSO across Azure AD, Google Workspace and Okta
+- **13 client reviews, 5.0/5,** from 6 countries as an independent developer
+- **Remote-first** across US time zones, from founding-engineer work to solo client delivery
+
+## 🚀 Now: Senior Full-Stack AI Engineer @ [UX Pilot AI](https://uxpilot.ai/)
+
+`Feb 2025 – Present` · Remote · New York, USA
+
+- As a founding engineer, partnered with the founder and CTO to architect and ship the core product.
+- Built LLM-powered React and Next.js code generation so users can generate, edit, and preview apps from their designs.
+- Implemented WorkOS SAML SSO across Azure AD, Google Workspace, and Okta for enterprise sign-in.
+- Built an MCP server with tool calling so AI agents and IDEs can interact with the product.
+- Shipped multi-user page collaboration, Enterprise and Super Admin panels, and canvas features.
+- Worked with customer support to reproduce and fix production issues.
+
+## 💼 Before that
+
+### Software Engineer @ [StudioX AI](http://studiox-ai.com/)
+
+`Mar 2024 – Oct 2024` · Remote · San Jose, California, USA
+
+- Built OpenAI API-powered assistant and document Q&A workflows for PDFs and spreadsheets.
+- Shipped document signing, transcription, task management, and flow chart features.
+- Built React and TypeScript dashboards and drag-and-drop interfaces.
+
+### Senior Full-Stack JS Developer @ [AVROX Solutions](https://www.avroxsolutions.com/)
+
+`Jun 2023 – Feb 2024` · Hybrid · Islamabad
+
+- Built and optimized large-scale React and Node.js web apps in a hybrid Eastern Time night-shift model.
+- Owned REST API delivery, performance tuning, code reviews, and direct client requirement gathering.
+- Mentored junior developers on the team.
+
+### Independent Full Stack Developer @ [Fiverr](https://www.fiverr.com/aasim_96)
+
+`2020 – 2023` · Remote · Worldwide clients
+
+- Worked independently as a Full-Stack Developer on Fiverr, owning projects end to end — scoping, build, revisions, and deployment.
+- Delivered responsive React, Next.js, and React Native apps for clients in the US, Canada, France, and other markets, with consistently strong 5-star reviews.
+- Reached Level 2 Seller status by handling client communication, timelines, and delivery without a team.
+
+## 🛠️ Tech stack
 
 #### **Frontend**
 
@@ -99,67 +155,52 @@ Full-Stack AI Engineer with 6+ years shipping production React, Next.js, TypeScr
 
 ---
 
-### 💼 Experience
+<details>
+<summary><b>All 97 tools I work with</b></summary>
 
-#### **Senior Full-Stack AI Engineer** @ [UX Pilot AI](https://uxpilot.ai/) _(Remote, New York, USA)_
+- **Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS
+- **AI engineering & agents:** OpenAI APIs, OpenAI Agents SDK, LangChain, RAG, Vector Databases, MCP Servers, Tool Calling, Cursor, Codex, Claude Code
+- **Frontend & mobile:** React, Next.js, React Native, Tailwind CSS, Playwright, Puppeteer, ShadCN UI, Material UI, Redux, Zustand, React Query, Framer Motion, Expo CLI, SCSS, Axios, Apex Charts, Chart.js, Bootstrap, Tldraw
+- **Backend, APIs & databases:** Node.js, Express.js, NestJS, FastAPI, RESTful APIs, GraphQL APIs, PostgreSQL, MongoDB, MySQL, SQL Server, Redis, Prisma ORM, Drizzle ORM, TypeORM, Sequelize ORM, Mongoose ORM, WorkOS, SAML SSO
+- **Cloud & DevOps:** AWS EC2, AWS S3, AWS Lambda, Docker, GitHub Actions, CI/CD Pipelines, Vercel, Cloudflare, Supabase, Git, Docker Compose, Linux, Fly.io, E2B, Zapier, AWS Amplify, AWS API Gateway, AWS AppSync, AWS SES, AWS CloudFront, AWS Route 53, CloudWatch
+- **Product, analytics & collaboration:** PostHog, A/B Testing, Funnel Tracking, Feature Flags, Session Replay, Figma, Slack, Notion, Jira, Asana, Loom, Postman, Funnel Creation, Event Tracking, Product Analytics, Conversion Optimization, Canva, Adobe Illustrator, Adobe InDesign, Trello, Google Workspace, Microsoft Office Suite
 
-`Feb 2025 – Present`
+</details>
 
-- As a founding engineer, partnered with the founder and CTO to architect and ship the core product.
-- Built LLM-powered React and Next.js code generation so users can generate, edit, and preview apps from their designs.
-- Implemented WorkOS SAML SSO across Azure AD, Google Workspace, and Okta for enterprise sign-in.
+## 💬 What clients say
 
-#### **Software Engineer** @ [StudioX AI](http://studiox-ai.com/) _(Remote, San Jose, California, USA)_
+> Very good and fast responses. I highly recommend this seller if you have any web coding work that needs to get done. He understands everything well and is very dedicated to doing exactly what you need done. Thanks again for your help.
+>
+> — mygeekcrew, Philippines · ★★★★★
 
-`Mar 2024 – Oct 2024`
+> Aasim is very easy to work with and he genuinely cares about the final product. He went above and beyond to ensure that I was happy with the delivery. I intend to work with him in the future!!
+>
+> — thomascotter1, United States · ★★★★★
 
-- Built OpenAI API-powered assistant and document Q&A workflows for PDFs and spreadsheets.
-- Shipped document signing, transcription, task management, and flow chart features.
-- Built React and TypeScript dashboards and drag-and-drop interfaces.
+> I am very satisfied with the front-end development and it reflects my requests well. aasim_96 is a talented front-end developer. I will proceed with the backend development right away.
+>
+> — kim_yo, South Korea · ★★★★★
 
-#### **Senior Full-Stack JS Developer** @ [AVROX Solutions](https://www.avroxsolutions.com/) _(Hybrid, Islamabad)_
+[All 13 reviews on my portfolio →](https://aasim.site/#testimonials)
 
-`Jun 2023 – Feb 2024`
+## 🎓 Education & certifications
 
-- Built and optimized large-scale React and Node.js web apps in a hybrid Eastern Time night-shift model.
-- Owned REST API delivery, performance tuning, code reviews, and direct client requirement gathering.
-- Mentored junior developers on the team.
+- **Bachelor of Science in Information Technology**, The Shaikh Ayaz University Shikarpur `2017 - 2020`
+- **Python for Data Science, AI & Development**, IBM (via Coursera) `Nov 2024` · [credential](https://www.coursera.org/account/accomplishments/certificate/9P547UJGTB2I)
+- **Certified Cloud Native Developer**, PIAIC `Jan 2023` · [credential](https://aasim-cnc.linkyhost.com)
+- **Google IT Support Specialization**, Google (via Coursera) `Mar 2020` · [credential](https://www.coursera.org/account/accomplishments/professional-cert/ZQSMUVNS2B5V)
 
-#### **Independent Full Stack Developer** @ [Fiverr](https://www.fiverr.com/aasim_96) _(Remote, Worldwide clients)_
+## 🧭 How I work
 
-`2020 – 2023`
+- **Problem Solving:** Efficient at solving complex issues, bringing innovative solutions to the table.
+- **Agile Development:** Skilled in quick and adaptable development methods, ensuring flexibility in changing scenarios.
+- **Team Collaboration:** Strong team player with effective communication and positive contributions to group efforts.
+- **Remote Ownership:** Delivers in fast-paced, remote, high-ownership teams across US time zones — from founding engineer work to independent client delivery.
 
-- Worked independently as a Full-Stack Developer on Fiverr, owning projects end to end — scoping, build, revisions, and deployment.
-- Delivered responsive React, Next.js, and React Native apps for clients in the US, Canada, France, and other markets, with consistently strong 5-star reviews.
-- Reached Level 2 Seller status by handling client communication, timelines, and delivery without a team.
+## 📫 Let's talk
 
----
+Hiring a full-stack AI engineer? I'm open to full-time remote roles and selected freelance projects.
 
-### ⭐ Client reviews
-
-13 freelance client reviews from 6 countries, average **5.0/5**. [Read them on my portfolio](https://aasim.site/#testimonials).
-
----
-
-### 🎓 Education & Certifications
-
-- **Bachelor of Science in Information Technology** | The Shaikh Ayaz University Shikarpur `2017 - 2020`
-- **Python for Data Science, AI & Development** | IBM (via Coursera) `Nov 2024`
-- **Certified Cloud Native Developer** | PIAIC `Jan 2023`
-- **Google IT Support Specialization** | Google (via Coursera) `Mar 2020`
-
----
-
-### 🔥 Core Competencies
-
-- **Problem Solving** | **Agile Development** | **Cross-functional Collaboration**
-- **AI Integration** | **Performance Optimization** | **Client-Centric Delivery**
-
----
-
-### 📫 Let's Connect
-
-- **Portfolio**: [aasim.site](https://aasim.site)
-- **Resume**: [PDF](https://aasim.site/muhammad-aasim-resume.pdf)
-- **LinkedIn**: [linkedin.com/in/dev-aasim](https://www.linkedin.com/in/dev-aasim/)
-- **Email**: [muhammadaasimsoomro@gmail.com](mailto:muhammadaasimsoomro@gmail.com)
+- **Message me:** [contact form on aasim.site](https://aasim.site/#contact-form) or [muhammadaasimsoomro@gmail.com](mailto:muhammadaasimsoomro@gmail.com)
+- **Resume:** [one-page PDF](https://aasim.site/muhammad-aasim-resume.pdf)
+- **LinkedIn:** [linkedin.com/in/dev-aasim](https://www.linkedin.com/in/dev-aasim/)
