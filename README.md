@@ -1,4 +1,13 @@
-# 👨‍💻 Muhammad Aasim
+```text
+ █████╗  █████╗ ███████╗██╗███╗   ███╗
+██╔══██╗██╔══██╗██╔════╝██║████╗ ████║
+███████║███████║███████╗██║██╔████╔██║
+██╔══██║██╔══██║╚════██║██║██║╚██╔╝██║
+██║  ██║██║  ██║███████║██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
+```
+
+# Muhammad Aasim
 
 **Full-Stack AI Engineer** · Founding engineer at [UX Pilot AI](https://uxpilot.ai) · Islamabad, Pakistan · Open to remote roles
 
@@ -6,6 +15,47 @@
 [![Resume](https://img.shields.io/badge/Resume-PDF-111?style=flat)](https://aasim.site/muhammad-aasim-resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-aasim/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:muhammadaasimsoomro@gmail.com)
+
+---
+
+<details open>
+<summary><b>ASCII me</b> · rendered from the halftone portrait on <a href="https://aasim.site">aasim.site</a></summary>
+
+```text
+                               ,~=+;,
+                          .=x%@@@@@@@#xx+:
+                     ,+xX*X@@@@@@@@@@@@@@@X~`
+                    ,%@@@@@@@@@@@@@@@@@@@@@@#~
+                  '+@@@@@@@@@@@@@@@@@@@@@@@@@@x;
+                  ,%@@@@@@@@@@@@@@@@@@@@@@@@@@@#~
+                 .+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*
+                 ,%@@@@@#xxxxx+==+X#%@@@@@@@@@@@X'
+                  *@@@@x~======--~~~=++++X%@@@@@*
+                  ;@@@%~=====~~;,,:-~======X@@@@-
+                  `#@@===~;;:`'`'`',,,~~~=~~#@@%,
+                   *@#~=+*XxXx+=~~=*x####x=~x@@x`
+                  '~xx~=*Xx%@@%~=~x@@%%#Xx=~+%x~~`
+                  ,;~x~==~+x**=~-~=+*+x+=====X=~-`
+                  '-=*~;:-~=~==-`-======-~===X~--'
+                   :;*~~,`:~==-,':~==~-;-====X~-:
+                   ';x~=~~===~+=-~x+~======~*#-:
+                    '++====xX#@@@@%##XX+===~#*
+                     ~x==~x@x*+++=+*xxX#~~-x@:
+                     `x#+~x+==~+xx+==~=X-=%@x
+                      `=%%%#=~-=xX~=~*X@@@@x,
+                        ;X@@%%Xx%%X#%@@@@X=+%#~
+                       ~#~+x#@@@@@@@@@@#+~-~#@%=
+                      +@@=~~~=+X%@@%#x~~---~#@@@#~:
+                   ;=%@@@*~-----=**=-------X@@@@%%#X*~,`
+              .,-+X###%%%%+--------------~#%%%###Xxx*+=~;:`.
+           '`;-~=++*xxXXX#X=------------+##XXXxx**+=~~;::,`'.
+          .''`,:;--~==++****-~;;-~~-;;;~****+++=~~-;:,,`'..
+            ...'``,:;;;--~~=--:::;;:::;~=~~---;;:,,`''..
+                ...''``,,,::,::,````,:;::::,,``''...
+                      ....'''''`'..'`'''''....
+```
+
+</details>
 
 ---
 
