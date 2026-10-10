@@ -1,15 +1,17 @@
-# 👨💻 Muhammad Aasim
+# 👨‍💻 Muhammad Aasim
 
-**Full Stack Developer | Cloud & AI Enthusiast**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-aasim/)
+**Full-Stack AI Engineer** · Founding engineer at [UX Pilot AI](https://uxpilot.ai) · Islamabad, Pakistan · Open to remote roles
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aasim.site-4f46e5?style=flat)](https://aasim.site)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111?style=flat)](https://aasim.site/muhammad-aasim-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-aasim/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:muhammadaasimsoomro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio%20Website-9cf)](https://www.aasim.pro)
 
 ---
 
-### 🚀 Professional Summary
+### 🚀 About
 
-I'm a passionate **Full Stack Developer** from Islamabad, Pakistan with a knack for building scalable web applications and delivering innovative solutions. My expertise spans both front-end and back-end development, cloud services, and DevOps.
+Full-Stack AI Engineer with 6+ years shipping production React, Next.js, TypeScript, and Node.js products. Founding Software Engineer at UX Pilot AI, working directly with the founder and CTO to ship LLM-powered design-to-app generation, MCP tool calling, and WorkOS SAML SSO for enterprise customers. Resolves customer-facing issues end to end with the support team, and uses PostHog funnels and A/B tests to measure what ships. Remote-first and high-ownership, with 13 five-star client reviews.
 
 ---
 
@@ -35,7 +37,7 @@ I'm a passionate **Full Stack Developer** from Islamabad, Pakistan with a knack 
 #### **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/Git-F05032?logo=vercel)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
@@ -48,39 +50,54 @@ I'm a passionate **Full Stack Developer** from Islamabad, Pakistan with a knack 
 
 ---
 
-### 💼 Work Experience
+### 💼 Experience
 
-#### **Software Engineer** @ [Secomind AI](https://secomind.ai) _(Remote, Pacific Time Zone)_
+#### **Senior Full-Stack AI Engineer** @ [UX Pilot AI](https://uxpilot.ai/) _(Remote, New York, USA)_
 
-`Mar 2024 - Oct 2024`
+`Feb 2025 – Present`
 
-- Built AI-driven web apps with **OpenAI integrations** for StudioX ecosystem.
-- Designed interactive dashboards using **Apex Charts**.
-- Enhanced UX with drag-and-drop features and real-time data visualizations.
+- As a founding engineer, partnered with the founder and CTO to architect and ship the core product.
+- Built LLM-powered React and Next.js code generation so users can generate, edit, and preview apps from their designs.
+- Implemented WorkOS SAML SSO across Azure AD, Google Workspace, and Okta for enterprise sign-in.
 
-#### **Senior Full Stack JS Developer** @ [AVROX Solutions](https://avrox.com) _(Hybrid, Eastern Time Zone)_
+#### **Software Engineer** @ [StudioX AI](http://studiox-ai.com/) _(Remote, San Jose, California, USA)_
 
-`Jun 2023 - Feb 2024`
+`Mar 2024 – Oct 2024`
 
-- Optimized performance of large-scale web apps, reducing load time by **40%**.
-- Mentored junior developers and led code reviews.
-- Collaborated with US clients to align product goals.
+- Built OpenAI API-powered assistant and document Q&A workflows for PDFs and spreadsheets.
+- Shipped document signing, transcription, task management, and flow chart features.
+- Built React and TypeScript dashboards and drag-and-drop interfaces.
 
-#### **Freelance Developer** @ [Fiverr](https://fiverr.com) _(Level 2 Seller)_
+#### **Senior Full-Stack JS Developer** @ [AVROX Solutions](https://www.avroxsolutions.com/) _(Hybrid, Islamabad)_
 
-`Sep 2019 - 2023`
+`Jun 2023 – Feb 2024`
 
-- Delivered **50+** full-stack apps for startups and enterprises.
-- Maintained a **5-star rating** with clients across 15+ countries.
+- Built and optimized large-scale React and Node.js web apps in a hybrid Eastern Time night-shift model.
+- Owned REST API delivery, performance tuning, code reviews, and direct client requirement gathering.
+- Mentored junior developers on the team.
+
+#### **Independent Full Stack Developer** @ [Fiverr](https://www.fiverr.com/aasim_96) _(Remote, Worldwide clients)_
+
+`2020 – 2023`
+
+- Worked independently as a Full-Stack Developer on Fiverr, owning projects end to end — scoping, build, revisions, and deployment.
+- Delivered responsive React, Next.js, and React Native apps for clients in the US, Canada, France, and other markets, with consistently strong 5-star reviews.
+- Reached Level 2 Seller status by handling client communication, timelines, and delivery without a team.
+
+---
+
+### ⭐ Client reviews
+
+13 freelance client reviews from 6 countries, average **5.0/5**. [Read them on my portfolio](https://aasim.site/#testimonials).
 
 ---
 
 ### 🎓 Education & Certifications
 
-- **B.S. Information Technology** | The Shaikh Ayaz University Shikarpur `2017-2020`
-- **Python for Data Science & AI** | IBM (Coursera) `2024`
-- **Certified Cloud Native Developer** | PIAIC `2023`
-- **Google IT Support** | Google (Coursera) `2020`
+- **Bachelor of Science in Information Technology** | The Shaikh Ayaz University Shikarpur `2017 - 2020`
+- **Python for Data Science, AI & Development** | IBM (via Coursera) `Nov 2024`
+- **Certified Cloud Native Developer** | PIAIC `Jan 2023`
+- **Google IT Support Specialization** | Google (via Coursera) `Mar 2020`
 
 ---
 
@@ -91,8 +108,9 @@ I'm a passionate **Full Stack Developer** from Islamabad, Pakistan with a knack 
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
-- **Portfolio**: [aasim.pro](https://www.aasim.pro)
-- **GitHub**: [github.com/muhammadaasim](https://github.com/muhammadaasim)
-- **LinkedIn**: [linkedin.com/in/dev-aasim](https://linkedin.com/in/dev-aasim)
+- **Portfolio**: [aasim.site](https://aasim.site)
+- **Resume**: [PDF](https://aasim.site/muhammad-aasim-resume.pdf)
+- **LinkedIn**: [linkedin.com/in/dev-aasim](https://www.linkedin.com/in/dev-aasim/)
+- **Email**: [muhammadaasimsoomro@gmail.com](mailto:muhammadaasimsoomro@gmail.com)
