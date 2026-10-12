@@ -15,59 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--aasim-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-aasim/)
 [![Email](https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadaasimsoomro@gmail.com)
 
-<details open>
-<summary><b>ASCII me</b> · the halftone portrait from <a href="https://aasim.site">aasim.site</a>, re-rendered as characters</summary>
-
-```text
-                                           ^";|XJO0v)-,
-                                       "]uQkoMB$$$$@@BhCcnr?,
-                                 "l~+l<JB$$$$$@@@@@@@@$$$$$Bhr>"
-                               ]QhW&Mbh%@@@@@@@@@@@@@@@@@@@@$@%w1^
-                              }#$$$$$$$@@@@@@@@@@@@@@@@@@@@@@@$$Bq)
-                            ;joB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$&xi'
-                           +wB$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$Wj`
-                           )&$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$%YI
-                          'xW@@@@@@@@@@@@@@@@$$$$@@@@@@@@@@@@@@@@@@@@$%/
-                         `f#@@@@@@@$$$$$$$$@8*ao&B$$$$@@@@@@@@@@@@@@@@W)
-                         ,0@@@@@@@@#ZLYLLJYXj\|\fvOa#%$$$$$$$@@@@@@@@@8v^
-                          1W@@@@@Bpt11)(()((||((()((|nLmOJ0q#@$@@@@@@@%r`
-                          id$@@@@ht{\\\\\\/|([<~-_}|\|)1)(1)jcqB$@@@@$W}
-                           j%@@@%Y{|\\\///(()?<:,:i?[1\/\\\\|))J&@@@@@O"
-                           [M$@BO||//\(1{?>;,``' ```";l_)|||\(]]LB@@@Bc
-                           ^0@$*f1\)_+~!I:;;l!;;>ll+<<>+1)(\(1]-t*@@$W)
-                           ^vW@q()\juQbpmpmUnx()\|/YLmh##o**Zu1[)m@$BZ~`
-                           ;[X*C{|tuCmZpW$$$&J)((|C8$$$$8oawQCt{{JB&Q({?^
-                           >]]LC1\(tLUX#%hO&bf1111rZ*oUwWhY00j||)jhX]++-"
-                           i+~XJ1||||))jYvrvt))[1|()/xxxzn((||\\)/qrr)?_"
-                           I})cz1-<i[)((|\|(|\+,+(|\||/jt/|1(\\\)/pf|1?_"
-                           ^~_tz1)+^^I-1(|\//)!`:}\\\\(}}{[_](\\)tqj{?]<'
-                            ;<]X|))~"^I+}\\}?i` `~)|\\|]-_<[\\\\)jb/___,
-                            '>[Lf1/\}]1||\([)[<>>]fx|(||(|\\\\\|1C#t-~`
-                             `_Cr1\\\\\|)(fuh&*qma%but\/\||\\\\(1Za[:^
-                              ^JC1\\\||Jqa&W*aa*#*aoW8WM#O/(|((}uWY^
-                               /wt)\\1xWBhb0zxccxxzXCwpb#8U[]]]rh&}
-                               :Lau){]xbc1(1)||){(|)){[]/av_](J&$bi
-                                -aBwn)xm11\\()Uo*pX/\/1-)bQ)fd@$k_
-                                 lXB$hqWZ\1{-{/LMY1|((txZ8B&%$@a}
-                                   _w$$$@pXv//(vawjucYkB$@@$$WCxL0t>
-                                   l/zk8$$$@%W*%@B%%B$$$@$$W0\[]L@$#t
-                                  |az]\fO#%$$$$@@@@@@@@$B&wj]]--xM@$&t
-                                 |M$p[{11|z0wM@@@@@@@B8duj{----_)h@@$%L},
-                               iX&$@d{}[-?}]]/xqB@B#wv/}?_----_]J8@@@$$@px]l"
-                            l{zM$$@@*j}]------_{rcvf{_-------_]Y&@@@@B%&W#ad0v}I^`
-                        ,_jUp*WW&%BB@b\---------???-?-------_}J&BB%&M*aakdwZ0Jzxt1~:"'
-                   '"i?|xYQOmqdbhaoo#Wm)_------------------_/w##ooahbdqm0LYcnjt|{[-+>;"`
-                '^;>_]{)/fxuzXJL0ZwqdbkQ1----------------_]xdhbdqwmOLJXzuxf/)}]_~>l;,^`
-                ^":;li>~-[{)\tjxvcYYCLQOY{-}-__---_--____?rOOQLCYYcvxjt\({[-+>il;,"`'
-                   `^":;li>+_?[{)(/trrxuv[>_<<<<]/|[~<<<>?1xuxrrt/|){[?_+<ilI:"^`
-                      '`^":;l!>><+--]}}{){[_>IIIl>>ilIII<])(1}}]--_~>>!l;:,^`'
-                           ``^,,:IIl!i<<~>l++!:,,,,,,,Ii++~~<<i!lI;::,^^`
-                                '``^"",,:,^:Il;,```^":III;::,,"^^``'
-                                         ''`````   '`````''
-```
-
-</details>
-
 ## 👋 About
 
 Full-Stack AI Engineer with 6+ years shipping production React, Next.js, TypeScript, and Node.js products. Founding Software Engineer at UX Pilot AI, working directly with the founder and CTO to ship LLM-powered design-to-app generation, MCP tool calling, and WorkOS SAML SSO for enterprise customers. Resolves customer-facing issues end to end with the support team, and uses PostHog funnels and A/B tests to measure what ships. Remote-first and high-ownership, with 13 five-star client reviews.
